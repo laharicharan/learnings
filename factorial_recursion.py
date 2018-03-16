@@ -1,5 +1,5 @@
 #this is factorial program
-def factorial(n):
+def factorial(number):
     if n == 0: return 1
     else:
         return n*factorial(n-1)
