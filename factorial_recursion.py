@@ -6,5 +6,5 @@ def factorial(number):
 
 print(factorial(5))
 print(factorial(6))
-print(factorial(12))
-print(factorial(8))
+print(factorial(4))
+print(factorial(2))
