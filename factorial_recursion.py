@@ -1,8 +1,8 @@
 #this is factorial program
-def factorial(number):
-    if number == 0: return 1
+def factorial(n1):
+    if n1 == 0: return 1
     else:
-        return number*factorial(number-1)
+        return n1*factorial(n1-1)
 
 print(factorial(5))
 print(factorial(6))
